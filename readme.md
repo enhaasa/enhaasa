@@ -18,4 +18,4 @@
 </p>
 
 <h2>My Tech Stack</h2>
-<img src="https://skillicons.dev/icons?i=html,sass,js,ts,react,nodejs,mysql,php" width="128" />
+<img src="https://skillicons.dev/icons?i=html,sass,js,ts,react,nodejs,mysql,php" />
