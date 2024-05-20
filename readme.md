@@ -10,12 +10,18 @@
 </p>
 
 <p>
-  I'm a strong believer in <strong>learning concepts over specific languages</strong>, a philosophy that has guided me through the ever-changing landscape of technology. This approach has also helped me greatly when learning new frameworks and languages.
+  I'm a strong believer in <strong>learning concepts</strong> instead of languages, a philosophy that has guided me through the ever-changing landscape of technology. This approach has also helped me greatly when learning new frameworks and languages.
 </p>
 
 <p>
-  I'm passionate about creating practical, multi-user applications with a real purpose. My toolkit includes working with React/Typescript/SCSS frontends, NodeJS/Websocket backends, and relational databases for persistent storage. 
+  I'm passionate about creating practical, multi-user applications with a <u>real purpose</u>. My toolkit includes working with React/Typescript/SCSS frontends, NodeJS/Websocket backends, and relational databases for persistent storage. 
 </p>
 
-<h2>My Tech Stack</h2>
-<img src="https://skillicons.dev/icons?i=html,sass,js,ts,react,vue,nodejs,postgres,php,heroku" />
+<h2>My Frontend Stack</h2>
+<img src="https://skillicons.dev/icons?i=js,ts,html,sass,react,vue" />
+
+<h2>My Backend Stack</h2>
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,postgres,php" />
+
+<h2>Other DevOps Skills</h2>
+<img src="https://skillicons.dev/icons?i=heroku" />
