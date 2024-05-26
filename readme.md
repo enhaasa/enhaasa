@@ -10,10 +10,6 @@
 </p>
 
 <p>
-  I'm a strong believer in <strong>learning concepts</strong> instead of languages, a philosophy that has guided me through the ever-changing landscape of technology. This approach has also helped me greatly when learning new frameworks and languages.
-</p>
-
-<p>
   I'm passionate about creating practical, multi-user applications with a <u>real purpose</u>. My toolkit includes working with React/Typescript/SCSS frontends, NodeJS/Websocket backends, and relational databases for persistent storage. 
 </p>
 
