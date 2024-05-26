@@ -6,7 +6,7 @@
 </p>
 
 <p>
-  My early coding journey didn't start with one destinctive decision, but rather a series of problems needing solutions, and a whole lot of <i>"Fuck it, I'll do it myself."</i>. Much of my progress came from the sheer need to make my projects functional, and it eventually sparked a burning passion for development.
+  My coding journey didn't start with any one destinctive decision, but rather a series of problems needing solutions, and a whole lot of <i>"Fuck it, I'll do it myself."</i>. Much of my progress came from the sheer need to make my projects functional, and it eventually sparked a passion for development.
 </p>
 
 <p>
