@@ -17,7 +17,7 @@
 <img src="https://skillicons.dev/icons?i=js,ts,html,sass,react,vue" />
 
 <h2>My Backend Stack</h2>
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,postgres,php" />
+<img src="https://skillicons.dev/icons?i=nodejs,postgres,php" />
 
 <h2>Other DevOps Skills</h2>
 <img src="https://skillicons.dev/icons?i=heroku" />
