@@ -20,4 +20,4 @@
 <img src="https://skillicons.dev/icons?i=nodejs,postgres,php" />
 
 <h2>Other DevOps Skills</h2>
-<img src="https://skillicons.dev/icons?i=heroku" />
+<img src="https://skillicons.dev/icons?i=heroku,docker" />
