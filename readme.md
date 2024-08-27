@@ -13,11 +13,11 @@
   I'm passionate about creating practical, multi-user applications with a <u>real purpose</u>. My toolkit includes working with React/Typescript/SCSS frontends, NodeJS/Websocket backends, and relational databases for persistent storage. 
 </p>
 
-<h2>My Frontend Stack</h2>
+<h2>Frontend Stack</h2>
 <img src="https://skillicons.dev/icons?i=js,ts,html,sass,react,vue" />
 
-<h2>My Backend Stack</h2>
+<h2>Backend Stack</h2>
 <img src="https://skillicons.dev/icons?i=nodejs,postgres,php" />
 
-<h2>Other DevOps Skills</h2>
+<h2>DevOps Skills</h2>
 <img src="https://skillicons.dev/icons?i=heroku,docker" />
